@@ -129,6 +129,6 @@ DELETE `/api/users/:id`
 }
 ```
 
-## 👨‍💻 Author
+## Developed by
 
 Mohammed Iqbal
